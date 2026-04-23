@@ -6,7 +6,7 @@ import java.net.http.HttpResponse;
 public class ApiService {
 
     // Base URL of the API
-    private static final String BASE_URL = "https://jsonplaceholder.typicode.com"; // Website for API testing
+    private static final String BASE_URL = "https://jsonplaceholder.typicode.com";
 
     // HTTP client instance
     private final HttpClient client;
